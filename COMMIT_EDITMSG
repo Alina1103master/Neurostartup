@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   css/.gitignore
+#	new file:   css/bootstrap.min.css
+#	new file:   css/style.css
+#	new file:   img/NeuroStartUp.png
+#	new file:   img/NeuroStartUpIcon.png
+#	new file:   img/adv-accuracy.svg
+#	new file:   img/adv-price.svg
+#	new file:   img/adv-speed.svg
+#	new file:   img/promo.png
+#	new file:   index.html
+#	new file:   js/bootstrap.min.js
+#	new file:   js/jquery.slim.min.js
+#	new file:   js/popper.min.js
+#
